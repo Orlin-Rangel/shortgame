@@ -1,2 +1,3 @@
 # shortgame
-Orlin Javier Rangel Lambraño
+## Orlin Javier Rangel Lambraño
+## Luis Galeano (Cucho)  
